@@ -4,6 +4,8 @@ function function1() {
   notGlobalVariable = 5;
 }
 
+function1();
+function2();
 //Write code above this line
 function function2() {
   var result = "";
@@ -15,8 +17,7 @@ function function2() {
   }
   console.log(result);
 }
-function1();
-function2();
+
 module.exports = {
   function1,
   function2,
