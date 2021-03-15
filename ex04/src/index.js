@@ -1,7 +1,7 @@
 //Only change code below this line
 function localScope(){
     var myVariable = "I am here!"
-    console.log('localScope: ', myVariable)
+    console.log(myVariable)
 }
 
 //Only change code above this line
