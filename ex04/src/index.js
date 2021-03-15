@@ -3,7 +3,7 @@ function localScope(){
     var myVariable = "I am here!"
     console.log(myVariable)
 }
-
+localScope();
 //Only change code above this line
 // myVariable is not defined outside of localScope
 if(typeof myVariable != "undefined"){
@@ -12,5 +12,5 @@ if(typeof myVariable != "undefined"){
 else{
     console.log('outside localscope UNDEFINED!!!')
 }
-localScope();
+
 module.exports = localScope;
