@@ -1,6 +1,6 @@
 //Only change code below this line
-function convertStrToInt(numStr){
-    return parseInt(numStr);
+function convertStrToInt(numStr) {
+  return parseInt(numStr);
 }
 
 console.log(convertStrToInt("44"));

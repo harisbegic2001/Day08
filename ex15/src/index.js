@@ -1,6 +1,6 @@
 //Only change code below this line
-function convertToInt(str){
-    return parseInt(str, 16)
+function convertToInt(str) {
+  return parseInt(str, 16);
 }
 
 console.log(convertToInt("BA"));
