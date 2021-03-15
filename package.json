@@ -1,0 +1,20 @@
+{
+  "name": "Day08",
+  "version": "1.0.0",
+  "description": "8th day - Arena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisbegic2001/Day08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harisbegic2001/Day08/issues"
+  },
+  "homepage": "https://github.com/harisbegic2001/Day08#readme"
+}
